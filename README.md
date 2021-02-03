@@ -1,9 +1,9 @@
 # Movies_ETL
 
-# World_Weather_Analysis1
+
 
 ## Resources
-  - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6 
+  - Software:  Anaconda 4.9.2, Jupyter Notebook 6.0.3 , Python 3.7.6, PostgreSQL 12
   - Using:  Pandas, Numpy, json, re, sqlalchemy - create_engine, pyscopg2, time
   - Data:  
     - wikipedia_movies.json
