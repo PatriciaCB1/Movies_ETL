@@ -15,7 +15,7 @@
   
 ## Overview of the analysis:
 
-Overall the aim was to:  Export, Transform and Load movie data.  Exported, explored, cleaned and merged data from 2 CSV's and a json file to in order to create a queriable movie database.  
+Overall the aim was to:  Export, Transform and Load movie data.  Exported, explored, cleaned and merged data from 2 CSVs and a json file to in order to create a queriable movie database.  
 
 
 
